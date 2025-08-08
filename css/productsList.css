@@ -1,0 +1,12 @@
+.category .catActive {
+  color: var(--primary-400);
+}
+.pageNumber .btn {
+  padding: 8px 15px;
+  border-radius: 0;
+  font-weight: 400;
+}
+.pageNumber .btnActive {
+  background-color: var(--primary-300);
+  font-weight: 500;
+}
